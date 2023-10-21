@@ -1,0 +1,132 @@
+/* font-family: 'Roboto', sans-serif; */
+body{
+    background-color: #9EDDFF;
+}
+
+.price{
+    border:2px solid #6499E9;
+    border-radius: 20px;
+    width: 30%;
+    text-align: center;
+    height: 500px;
+}
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25rem;
+    
+}
+.head{
+    margin-top: 4rem;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    font-size: 5rem;
+    color: #6499E9;
+}
+.one{
+    position: relative;
+    left: 3.3%;
+    background-color: #BEFFF7;
+    border-color: #BEFFF7;
+}
+.two{
+    position: relative;
+    top: -503px;
+    left: 34.3%;
+    background-color: #BEFFF7;
+    border-color: #BEFFF7;
+}
+.three{
+    position: relative;
+    top: -1006px;
+    left: 65.3%;
+    background-color: #6499E9;
+    color: antiquewhite;
+}
+.container{
+    margin-top: 150px;
+    height: 800px;
+}
+
+.names{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+    color: #6499E9;
+    margin-top: 3rem;
+}
+.nm-last{
+    color: #BEFFF7;
+}
+.money{
+    font-family: 'Roboto', sans-serif;
+    font-size: 3rem;
+    font-weight: 800;
+    padding:0;
+    margin: 0;
+    margin-bottom: 2rem;
+    color: #6499E9;
+}
+.mn-last{
+    color: #BEFFF7;
+}
+
+li{
+    margin-bottom: 10px;
+    color: #6499E9;
+}
+.li-last{
+    color: #BEFFF7;
+}
+
+.button{
+    border-radius: 10px;
+    width: 80%;
+    height: 10%;
+    background-color:#6499E9 ;
+    border-color:#6499E9 ;
+    margin-top: 3rem;
+}
+.learn{
+    text-decoration: none;
+    color: #BEFFF7;
+    font-size: 1rem;
+}
+.lrn-3{
+    color: #6499E9;
+}
+.btn-3{
+    background-color: #BEFFF7;
+}
+hr{
+    margin-left: 15%;
+    margin-right: 15%;
+    border:1px solid #6499E9;
+    border-radius: 1px;
+}
+.hr-last{
+    border-color: #BEFFF7;
+}
+.hr-ftr{
+    margin: 0;
+    padding: 0;
+
+}
+.bck-tp{
+    text-decoration: none;
+    color: #BEFFF7;
+    border: 1px solid #6499E9;
+    background-color: #6499E9;
+    padding:10px 15px 10px 15px;
+    border-radius: 15px;
+}
+footer{
+    margin-bottom: 5rem;
+    text-align: center;
+}
+.footer{
+    color: #6499E9;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
